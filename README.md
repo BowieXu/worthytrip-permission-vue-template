@@ -1,2 +1,2 @@
-# worthytrip-permission-vue-template
-优旅网络权限Vue项目模板
+# permission-vue-template
+Vue项目模板(包含权限)
